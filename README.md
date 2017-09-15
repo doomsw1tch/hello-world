@@ -1,2 +1,2 @@
 # hello-world
-Learning how to github
+Branches are a way of testing features before commiting them to the master branch.
